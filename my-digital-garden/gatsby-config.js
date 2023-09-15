@@ -3,12 +3,12 @@ module.exports = {
     {
       resolve: `gatsby-theme-garden`,
       options: {
-        contentPath: `${__dirname}/content/garden`,
-        rootNote: `/hello`,
+        contentPath: `${__dirname}/content`,
+        rootNote: `/about`,
       },
     },
   ],
   siteMetadata: {
-    title: `Site title`,
+    title: `Daniel Kwik`,
   },
 }
