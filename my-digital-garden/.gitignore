@@ -67,9 +67,3 @@ yarn-error.log
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
-
-# obsidian
-content/.obsidian
-
-#vscode
-digital-garden.code-workspace
