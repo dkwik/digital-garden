@@ -67,3 +67,11 @@ yarn-error.log
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
+
+#Obsidian
+content/.obsidian
+
+
+#Ignored Notes
+content/devNotes
+content/otherNotes
