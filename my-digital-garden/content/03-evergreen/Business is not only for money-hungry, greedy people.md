@@ -1,12 +1,14 @@
 ---
 dateCreated: 2023-09-18T20:39:10-04:00
-dateModified: 2023-09-28T09:06:21-04:00
+dateModified: 2023-09-29T09:06:14-04:00
 tags: []
 ---
 
+# Is business only for power-hungry, money-minded people?
+
 What do you picture when you picture a business? Do you see giant evil corporations filled with people in classic black suit, arms akimbo, always poised with the perfect head angle, as though they were constantly balancing a cup of water on their head, maniacally plotting how to best exploit the vulnerable for profit? Yeah I get it, business can seem pompous. But they don't have to be.
 
-In fact, I think that some of [the kindest, most humble people in the world are business people], and some of the world's toughest problems are [best solved through business]. And there's a particular subset of businesses that I think are [incredible special] (more on that later)
+In fact, I believe [[there are extremely generous, humble people business people]], and some of the world's toughest problems are [best solved through business]. And there's a particular subset of businesses that I think are [incredible special] (more on that later)
 
 You hear of the famous greats of the 'good business' movement and how they have done some counter-cultural things in pursuit of good business, such as how [[Chobani's committed to hiring refugees and giving 10 percent of their company to their employees]], or when [Patagonia told it's customers not to buy their jackets], or how [Ecosia donated 80% of its profits to reforestation, planting over 120 million trees]. 
 
