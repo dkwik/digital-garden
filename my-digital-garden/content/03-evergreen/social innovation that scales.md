@@ -1,6 +1,6 @@
 ---
 dateCreated: 2023-10-12T08:55:25-04:00
-dateModified: 2023-10-13T08:22:10-04:00
+dateModified: 2023-10-14T13:49:34-04:00
 tags: 
 sources:
   - https://www.socialinnovationatlas.net/fileadmin/PDF/einzeln/04_Future-Challenges-and-Infrastructures/04_02_Scaling-SI-Gaps-and-Opportunities_Deiglmeier.pdf

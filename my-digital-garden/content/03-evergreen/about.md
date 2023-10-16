@@ -1,6 +1,6 @@
 ---
 dateCreated: 2023-09-14T21:54:47-04:00
-dateModified: 2023-10-11T08:33:15-04:00
+dateModified: 2023-10-16T08:43:51-04:00
 tags: []
 ---
 # Welcome
@@ -12,6 +12,5 @@ This is my first attempt at sharing my thoughts with the world, and i'm glad you
 Currently, I am writing about the intersection of business, social impact, and a bunch of random things  🙂
 ## Top of mind
 
-- [[There is such a thing as 'good' business]].
+- [[there is such a thing as 'good' business]].
 - Social impact requires people with [[idealistic pragmatism]].
-- [[Sabbath is a gift, but it takes 'sacrifice']]
