@@ -7,7 +7,7 @@ sources:
 
 # All aspects of a business has the potential to have a redeeming quality
 
-When thinking about how [[there is such a thing as 'good' business]], most of the time, we think about social enterprises, or big philanthropic acts. But I think the potential for business goes far deeper.
+When thinking about how [[there is such a thing as good business]], most of the time, we think about social enterprises, or big philanthropic acts. But I think the potential for business goes far deeper.
 
 It starts with understanding the influence it has on society. Business doesn't work in a vacuum, it creates culture. 
 
