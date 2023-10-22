@@ -1,6 +1,6 @@
 ---
 dateCreated: 2023-09-14T21:54:47-04:00
-dateModified: 2023-10-16T09:30:34-04:00
+dateModified: 2023-10-21T21:16:12-04:00
 tags: []
 ---
 # Welcome
@@ -10,7 +10,8 @@ Hello my name is Daniel Kwik and welcome to my canvas where I think with the 'ga
 This is my first attempt at sharing my thoughts with the world, and i'm glad you are here. These thoughts are intentionally unpolished, and I invite you to help me refine them. If you are looking for academic, publishable writing, this is unfortunately not the right avenue. But if you'd like to take a journey of exploration with me, come jump in!
 
 Currently, I am writing about the intersection of business, social impact, and a bunch of random things  🙂
-## Top of mind
+## Top of Mind
 
 - [[there is such a thing as good business]].
 - Social impact requires people with [[idealistic pragmatism]].
+- [[culture is shaped not only through ideas, but through things]].

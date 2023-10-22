@@ -1,6 +1,6 @@
 ---
 dateCreated: 2023-09-15T08:42:14-04:00
-dateModified: 2023-10-16T08:46:44-04:00
+dateModified: 2023-10-21T21:15:57-04:00
 tags: []
 ---
 
@@ -23,7 +23,7 @@ tags: []
 - One of the fastest ways to solve broken systems is through business
 	- Microlending in poverty
 
-
+culture and technology.
 
 Other ideas:
 

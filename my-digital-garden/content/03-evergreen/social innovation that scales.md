@@ -1,13 +1,13 @@
 ---
 dateCreated: 2023-10-12T08:55:25-04:00
-dateModified: 2023-10-14T13:49:34-04:00
+dateModified: 2023-10-21T15:06:49-04:00
 tags: 
 sources:
   - https://www.socialinnovationatlas.net/fileadmin/PDF/einzeln/04_Future-Challenges-and-Infrastructures/04_02_Scaling-SI-Gaps-and-Opportunities_Deiglmeier.pdf
   - https://brookings.edu/articles/scaling-up-social-enterprise-innovations-approaches-and-lessons/
   - https://ssir.org/articles/entry/scaling_impact
 ---
-# Social innovation that scale successfully
+# Social innovation that scaled successfully
 While there is plenty of important social innovation happening at a micro-level - i.e your local coffeeshop that hires at-risk youth, or a non-profit organization that has a store selling merchandise, there are some cases of social innovation that has scaled rapidly:
 
 **Microfinance**: Grameen Bank, founded by Muhammad Yunus, scaled the idea of providing micro loans to impoverished individuals. This is perhaps the first demonstration of social innovation model scaling globally.
