@@ -1,6 +1,6 @@
 ---
 dateCreated: 2023-10-16T08:41:12-04:00
-dateModified: 2023-10-21T21:04:52-04:00
+dateModified: 2023-10-23T09:47:18-07:00
 tags: []
 sources: 
 ---
@@ -16,5 +16,8 @@ Done right, all aspects of a business can have redemptive qualities:
 	- Business Model
 	- Partnerships
 	- Ambition
+
+## Products
+Products don't appear out of thin air, they have to be *created*.
 
 🚧 The rest of this article is under construction 🚧

@@ -1,6 +1,6 @@
 ---
 dateCreated: 2023-09-15T08:42:14-04:00
-dateModified: 2023-10-21T21:15:57-04:00
+dateModified: 2023-10-23T09:50:02-07:00
 tags: []
 ---
 
@@ -65,6 +65,8 @@ Other ideas:
 **8. Redemptive qualities in business facets**:
 
 - **Products**: Ensuring they serve the common good and are ethically sourced.
+	- product lifecycle -> where does redemptive come into play?
+	- 
 - **Brand**: Building a reputation of integrity and values.
 - **Culture**: Encouraging a workplace culture that reflects Christian ethics and values.
 - **Business Model**: Ensuring fair wages, ethical sourcing, and community support.
