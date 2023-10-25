@@ -1,6 +1,6 @@
 ---
 dateCreated: 2023-10-18T08:29:56-04:00
-dateModified: 2023-10-25T09:15:29-07:00
+dateModified: 2023-10-25T09:20:19-07:00
 tags: 
 sources:
   - https://www.thoughtco.com/culture-definition-4135409
