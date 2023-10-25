@@ -19,4 +19,4 @@ Yes, but it also moves the other way, that is, as we shape things, they in turn 
 
 This makes a case for the need to be hyper aware of not only our cultural 'ideas', but also our cultural 'things', whose formational power I would argue are much stronger.
 
->“We become what we behold. We shape our tools, and thereafter our tools shape us.” ~John Culkin
+> “We become what we behold. We shape our tools, and thereafter our tools shape us.” ~John Culkin
