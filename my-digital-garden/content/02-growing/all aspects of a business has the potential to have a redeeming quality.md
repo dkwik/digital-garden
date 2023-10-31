@@ -1,6 +1,6 @@
 ---
 dateCreated: 2023-10-16T08:41:12-04:00
-dateModified: 2023-10-23T09:47:18-07:00
+dateModified: 2023-10-25T09:45:57-07:00
 tags: []
 sources: 
 ---
@@ -18,6 +18,8 @@ Done right, all aspects of a business can have redemptive qualities:
 	- Ambition
 
 ## Products
-Products don't appear out of thin air, they have to be *created*.
+Products should be fashioned with human-design, not just strategic exploitation.
+
+Brands should advance virtuous narratives of the authentic human experience, not by the concealment or manipulation of truth.
 
 🚧 The rest of this article is under construction 🚧
