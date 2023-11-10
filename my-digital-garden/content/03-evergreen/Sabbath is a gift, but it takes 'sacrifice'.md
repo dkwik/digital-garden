@@ -1,6 +1,6 @@
 ---
 dateCreated: 2023-10-08T10:03:45-04:00
-dateModified: 2023-11-08T08:41:16-05:00
+dateModified: 2023-11-10T08:06:10-05:00
 tags: []
 sources: 
 ---
@@ -17,7 +17,7 @@ Thankfully, I am not trying to start a start-hustle in the slave trade in exchan
 
 So, I think that Sabbath is a free gift, but for most people this paradoxically involves a letting go of something, a kind of sacrifice. What kind of sacrifice? I think it might be different for different people, but for me, it's sacrificing my need for control. 
 
-Our cultural narrative says, "You will only succeed if you try hard enough, if you have grit". And since I am a product of our culture, my impulses don't want me to stop doing things. In reality, this 'grit' is just a mask for my incessant need for control. Don't get me wrong, I believe grit can be healthy ([[hope-filled grit vs fear-based grit]]), but can I trust in God's leading, and allow myself to truly receive the gift of rest? Can I let go and recognize that the world doesn't revolve around my ambition?
+Our cultural narrative says, "You will only succeed if you try hard enough, if you have grit". And since I am a product of our culture, my impulses don't want me to stop doing things. In reality, this 'grit' is just a mask for an incessant need for control. Don't get me wrong, I believe grit can be healthy ([[hope-filled grit vs fear-based grit]]), but can I trust in God's leading, and allow myself to truly receive the gift of rest? Can I let go and recognize that the world doesn't revolve around my ambition?
 
 Here's a litmus test: If I take a day off for complete rest, do I catch myself dreaming about my side-projects, or thinking "when will my Sabbath be over so that I can do X?" If so, I might be missing the point and might need to 'sacrificially' receive the Sabbath.
 
