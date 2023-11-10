@@ -21,4 +21,3 @@ Currently, I am writing about the intersection of business, social impact, and a
 - Social impact requires people with [[idealistic pragmatism]].
 - [[culture is shaped not only through ideas, but through things]].
 - [[Sabbath is a gift, but it takes 'sacrifice']].
-test
