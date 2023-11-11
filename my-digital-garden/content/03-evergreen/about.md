@@ -7,7 +7,7 @@ tags: []
 
 Hello my name is Daniel Kwik and welcome to my canvas where I think with the 'garage door open'. 
 
-This is where I do habitual, informal, thinking with no fixed agenda, or end-goal. These thoughts are designed to be:
+This is where I do habitual, informal thinking with no fixed agenda, or end-goal. These thoughts are designed to be:
 
 1. **Intentionally Unpolished.** Here, you will not find academic writing, but concise and densely-linked ideas. I sacrifice precision for discovery, choosing to explore rather than to educate.
 2. **Domain Agnostic**. I tend to have a LOT of interests, so instead of focusing on one broad topic, I'll make broad *connections* between diverse domains, in pursuit of lateral thinking.
