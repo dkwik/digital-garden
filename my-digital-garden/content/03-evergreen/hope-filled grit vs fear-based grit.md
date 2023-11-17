@@ -1,10 +1,11 @@
 ---
 dateCreated: 2023-11-08T08:19:07-05:00
-dateModified: 2023-11-17T12:02:13-05:00
+dateModified: 2023-11-17T12:17:17-05:00
 tags: []
 sources: 
 ---
 
+# hope-filled grit vs fear-based grit
 While there is a certain quality to all grit (the capacity for perseverance), grit is motivation-agnostic. That is, it can be motivated by fear, or by hope. Take these 3 scenarios of grit:
 
 1. A student studying additional material on weekends for a national exam.
