@@ -5,7 +5,7 @@ tags: []
 ---
 # Welcome
 
-![[profile-picture.jpeg]]
+![headshot][profile-picture.jpeg "headshot:]
 
 Hello my name is Daniel Kwik and welcome to my canvas where I think with the 'garage door open'. 
 
