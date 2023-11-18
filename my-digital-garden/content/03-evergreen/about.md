@@ -1,11 +1,11 @@
 ---
 dateCreated: 2023-09-14T21:54:47-04:00
-dateModified: 2023-11-18T12:53:49-05:00
+dateModified: 2023-11-18T13:19:58-05:00
 tags: []
 ---
 # Welcome
 
-![headshot][profile-picture.jpeg "headshot:]
+![headshot][profile-picture.jpeg]
 
 Hello my name is Daniel Kwik and welcome to my canvas where I think with the 'garage door open'. 
 
