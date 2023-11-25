@@ -1,6 +1,6 @@
 ---
 dateCreated: 2023-09-14T21:54:47-04:00
-dateModified: 2023-11-18T13:28:47-05:00
+dateModified: 2023-11-25T08:31:04-05:00
 tags: []
 ---
 # Welcome
@@ -15,10 +15,10 @@ This is where I do habitual, informal thinking with no fixed agenda, or end-goal
 
 So. If you are okay with the above, take a journey of exploration with me. Come further up, come further in.
 ## Entry Points
-Currently, I am writing about the intersection of business, social impact, and a bunch of random things  🙂
+Currently, I am writing about the intersection of business, social impact, and some personal development  🙂
 
 - [[there is such a thing as good business]].
-- Social impact requires people with [[idealistic pragmatism]].
 - [[culture is shaped not only through ideas, but through things]].
+- Social impact requires people with [[idealistic pragmatism]].
 - [[Sabbath is a gift, but it takes 'sacrifice']].
 - [[hope-filled grit vs fear-based grit]].

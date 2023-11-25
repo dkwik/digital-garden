@@ -1,6 +1,6 @@
 ---
 dateCreated: 2023-09-18T20:39:10-04:00
-dateModified: 2023-10-21T21:18:27-04:00
+dateModified: 2023-11-25T08:20:30-05:00
 tags: []
 ---
 
@@ -10,10 +10,10 @@ What comes to mind when you picture a business? Profit machines exploiting the v
 
 In fact, I already believe that [[there are extremely generous, humble people business people]], and that [[some of the toughest social issues might be best solved through business]]. 
 
-And there are the great stories of how companies have done some counter-cultural things in pursuit of good business, such as how [[Chobani's committed to hiring refugees and giving 10 percent of their company to their employees]], or when [[Patagonia told it's customers not to buy their jackets]], or how [[Ecosia donates 80 percent of its profits to reforestation, planting over 180 million trees]]. 
+There are great stories of how companies have done some counter-cultural things in pursuit of good business, such as how [[Chobani's committed to hiring refugees and giving 10 percent of their company to their employees]], or when [[Patagonia told it's customers not to buy their jackets]], or how [[Ecosia donates 80 percent of its profits to reforestation, planting over 180 million trees]]. 
 
 Of course there is the poster child of social innovation, the social enterprise - a certain breed of business whose existence is entirely to serve a social end ([[social enterprises provides spare change for social change]]).
 
-But good business doesn't only have to be explicitly humanitarian (though some of the best are). I believe this because [[all aspects of a business has the potential to have a redeeming quality]] 
+But good business doesn't only have to be explicitly humanitarian (though some of the best are), in fact, [[every aspect of a business can possess a redeeming quality.]], including products, branding, culture, operating model, and more.
 
 🚧 The rest of this article is under construction 🚧
