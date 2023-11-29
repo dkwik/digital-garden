@@ -1,16 +1,15 @@
 ---
 dateCreated: 2023-10-16T08:41:12-04:00
-dateModified: 2023-11-25T08:26:11-05:00
+dateModified: 2023-11-28T07:45:56-05:00
 tags: []
 sources: 
 ---
 
 # Every aspect of a business can possess a redeeming quality
 
-When thinking about how [[there is such a thing as good business]], I tend to think about on-off, enormous philanthropic acts, or outward commitment to environmental stewardship. But it seems to me that the potential for good business can be more holistic than single acts of altruism.
+When thinking about how [[there is such a thing as good business]], I tend to think about one-off, enormous philanthropic acts, or outward commitment to environmental stewardship. But it seems to me that the potential for good business can be more holistic than single acts of altruism.
 
 Done right, all aspects of a business can have redemptive qualities:
-
 ## Products 
 Products could be fashioned with and eye towards human-design, not just market opportunity. Thoughtful consideration could be made on whether the product *should* exist, and how it advances/impairs human flourishing.
 

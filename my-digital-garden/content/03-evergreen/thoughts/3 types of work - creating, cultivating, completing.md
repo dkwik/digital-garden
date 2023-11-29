@@ -1,6 +1,6 @@
 ---
 dateCreated: 2023-11-22T08:31:08-05:00
-dateModified: 2023-11-25T08:06:34-05:00
+dateModified: 2023-11-29T08:37:15-05:00
 tags:
   - entrepreneurship
 sources: 
@@ -20,7 +20,4 @@ The act of taking something from 1 to n-1. This involves developing something th
 The act of taking something from n-1 to n. This involves helping to sunset something in its final stages. This type of work might involve finalization, ensuring the smooth closure of something, or ushering a sense of completion.
 
 ### Different people are more suited to different types of work
-This is a generalization, but I think that these 3 types of work require different skillsets. 'Creating' work requires innovation and curiosity. 'Cultivating' requires systems-building, and forming structure. 'Completing' requires attention to detail, and meticulousness.
-
-### Why the act of creation fascinates me.
-
+This is a generalization, but I think that these 3 types of work require different skillsets. 'Creating' work requires innovation and curiosity. 'Cultivating' requires building systems and structure. 'Completing' requires attention to detail, and meticulousness.

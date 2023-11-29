@@ -1,6 +1,6 @@
 ---
 dateCreated: 2023-09-14T21:54:47-04:00
-dateModified: 2023-11-25T08:31:04-05:00
+dateModified: 2023-11-29T08:37:39-05:00
 tags: []
 ---
 # Welcome
@@ -22,3 +22,9 @@ Currently, I am writing about the intersection of business, social impact, and s
 - Social impact requires people with [[idealistic pragmatism]].
 - [[Sabbath is a gift, but it takes 'sacrifice']].
 - [[hope-filled grit vs fear-based grit]].
+- [[3 types of work - creating, cultivating, completing]].
+
+## Short Stories
+Here are some personal short stories that have taught me something, or help me come to a unique realization.
+
+- [[My experience with the accelerometer of life in different cities.]]

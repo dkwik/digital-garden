@@ -1,6 +1,6 @@
 ---
 dateCreated: 2023-09-18T20:39:10-04:00
-dateModified: 2023-11-25T08:20:30-05:00
+dateModified: 2023-11-29T08:39:25-05:00
 tags: []
 ---
 
@@ -15,5 +15,7 @@ There are great stories of how companies have done some counter-cultural things 
 Of course there is the poster child of social innovation, the social enterprise - a certain breed of business whose existence is entirely to serve a social end ([[social enterprises provides spare change for social change]]).
 
 But good business doesn't only have to be explicitly humanitarian (though some of the best are), in fact, [[every aspect of a business can possess a redeeming quality.]], including products, branding, culture, operating model, and more.
+
+Why is this so important anyway? This is important because [[we need good business to remain as good people]].
 
 🚧 The rest of this article is under construction 🚧
