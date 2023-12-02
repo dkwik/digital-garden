@@ -9,7 +9,7 @@ sources:
 
 Personal Short Story: [[My experience with the accelerometer of life in different cities.]]
 
-[[there can be sacredness in dull, everyday moments.]]
+[[there can be sacredness in dull, monotonous habits]]
 
 
 
