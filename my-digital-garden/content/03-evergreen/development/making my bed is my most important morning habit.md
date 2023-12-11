@@ -1,6 +1,6 @@
 ---
 dateCreated: 2023-12-02T12:10:18-05:00
-dateModified: 2023-12-02T13:05:28-05:00
+dateModified: 2023-12-11T08:59:02-05:00
 tags: []
 sources: 
 ---
@@ -16,9 +16,7 @@ Besides the strange phenomena that a decluttered room seems to declutter my mind
 
 It forces my brain to slow down. It allows my body to catch up with a racing mind. 
 
-Isn't it interesting how our minds can start 'racing' within seconds of waking? This happens because we've been habitually conditioned into instant gratification & stimulation through our technological tools. 
-
-Digital caffeine is a serious, real drug. It's been shown that grabbing our phones first thing in the morning forces us to skip over [crucial theta & alpha brain wave states](https://www.makeuseof.com/you-shouldnt-check-phone-wake-up/#:~:text=If%20you%20check%20your%20phone,side%20effects%20throughout%20your%20day.), which impairs creativity. The rise of short-form video creates a perpetual flow of flashy scenarios that feeds our brain with a hits of dopamine which actually [neurologically and anatomically changes our brain](https://www.npr.org/2010/06/02/127370598/the-shallows-this-is-your-brain-online).
+Isn't it interesting how our minds can start 'racing' within seconds of waking? Perhaps this happens because we've been habitually conditioned into instant gratification & stimulation through our technological tools. ([[digital caffeine is a real, serious drug]])
 
 That's why as I make boring fold after boring fold, morning after morning, I remind myself that these boring moments matter.
 
