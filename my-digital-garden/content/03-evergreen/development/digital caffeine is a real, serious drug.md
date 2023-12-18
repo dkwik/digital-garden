@@ -1,6 +1,6 @@
 ---
 dateCreated: 2023-12-11T08:55:50-05:00
-dateModified: 2023-12-11T09:24:45-05:00
+dateModified: 2023-12-18T08:14:09-05:00
 tags: []
 sources: 
 ---
@@ -15,7 +15,7 @@ This 'progression' happened so habitually that at one point, within 15 seconds o
 
 And it felt good. On days when i was extremely tired, this seemed to give me the 'hit' I needed to start my brain. 
 
-So.. it's a good thing? Not quite.
+But I learned that this was a terrible way to start the day.
 
 It's been shown that grabbing our phones first thing in the morning forces us to skip over [crucial theta & alpha brain wave states](https://www.makeuseof.com/you-shouldnt-check-phone-wake-up/#:~:text=If%20you%20check%20your%20phone,side%20effects%20throughout%20your%20day.), which impairs creativity. The rise of short-form video creates a perpetual flow of flashy scenarios that feeds our brain with a hits of dopamine which actually [neurologically and anatomically changes our brain](https://www.npr.org/2010/06/02/127370598/the-shallows-this-is-your-brain-online). 
 
@@ -23,5 +23,5 @@ I find that while these hits of 'digital caffeine' help jolt me awake, it has *t
 
 I end up feeling exhausted before the day even started.
 
-So to make a change, I worked hard to make sure I started my day with embodied, slow, almost boring habits ([[making my bed is my most important morning habit]]). And over time, what a change it made to my day. I felt more calm, more collected. It gave me more gratitude, I was more present with people. I'm working hard not to fall into relapse, hopefully I can keep it up!
+So to make a change, I worked hard to make sure I started my day with embodied, slow, almost boring habits ([[making my bed is my most important morning habit]]). And over time, it made such a difference. I felt more calm, more collected. It gave me more gratitude, I was more present with people. I'm working hard not to fall into relapse, hopefully I can keep it up!
 

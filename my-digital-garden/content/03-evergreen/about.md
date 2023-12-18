@@ -1,6 +1,6 @@
 ---
 dateCreated: 2023-09-14T21:54:47-04:00
-dateModified: 2023-12-02T14:40:51-05:00
+dateModified: 2023-12-18T09:14:04-05:00
 tags: []
 ---
 # Welcome
@@ -20,10 +20,11 @@ Currently, I am writing about the intersection of business, social impact, and s
 - [[there is such a thing as good business]].
 - [[culture is shaped not only through ideas, but through things]].
 - Social impact requires people with [[idealistic pragmatism]].
-- [[Sabbath is a gift, but it takes 'sacrifice']].
+- [[sabbath is a gift, but it takes 'sacrifice']].
 - [[hope-filled grit vs fear-based grit]].
 - [[3 types of work - creating, cultivating, completing]].
-- [[there can be sacredness in dull, monotonous habits]]
+- [[there can be sacredness in dull, monotonous habits]].
+- [[motivation from ambition is feeble, motivation from service is resilient.]]
 
 ## Short Stories
 Here are some personal short stories that have taught me something, or help me come to a unique realization.

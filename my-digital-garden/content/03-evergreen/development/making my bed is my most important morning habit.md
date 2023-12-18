@@ -1,6 +1,6 @@
 ---
 dateCreated: 2023-12-02T12:10:18-05:00
-dateModified: 2023-12-11T08:59:02-05:00
+dateModified: 2023-12-18T08:14:56-05:00
 tags: []
 sources: 
 ---
@@ -12,7 +12,7 @@ Making my bed every morning is extremely annoying.
 It is done over and over again each morning, only for it to be 'unmade' a few hours later. 
 Why bother doing it then? 
 
-Besides the strange phenomena that a decluttered room seems to declutter my mind, this unproductive, boring, brainless habit seems to create in me a type of patience that carries with me through the day.
+Besides the strange phenomena that a decluttered room seems to declutter my mind, this unproductive, boring habit creates in me a type of patience that seems to carry with me through the day.
 
 It forces my brain to slow down. It allows my body to catch up with a racing mind. 
 
