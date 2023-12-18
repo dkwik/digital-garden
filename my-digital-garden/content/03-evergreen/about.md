@@ -24,7 +24,7 @@ Currently, I am writing about the intersection of business, social impact, and s
 - [[hope-filled grit vs fear-based grit]].
 - [[3 types of work - creating, cultivating, completing]].
 - [[there can be sacredness in dull, monotonous habits]].
-- [[motivation from ambition is feeble, motivation from service is resilient.]]
+- [[motivation from ambition is feeble, motivation from service is resilient]]
 
 ## Short Stories
 Here are some personal short stories that have taught me something, or help me come to a unique realization.
