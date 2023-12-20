@@ -1,10 +1,10 @@
 ---
 dateCreated: 2023-10-21T17:15:00-04:00
-dateModified: 2023-12-18T09:04:47-05:00
+dateModified: 2023-12-20T08:19:04-05:00
 tags: []
 sources: 
 ---
-# We need business to be good
+# business is an engine for cultural transformation
 
 Why is it important that [[there is such a thing as good business]]? Isn't business in itself sufficient for the economy and job creation? As long as businesses meet their economic function while adhering to a baseline of ethics, why push any further?
 

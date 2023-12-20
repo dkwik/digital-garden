@@ -16,6 +16,6 @@ Of course there is the poster child of social innovation, the social enterprise 
 
 But good business doesn't only have to be explicitly humanitarian (though some of the best are), in fact, [[every aspect of a business can possess a redeeming quality.]], including products, branding, culture, operating model, and more.
 
-Why is this so important anyway? This is important because [[we need good business to remain as good people]].
+Why is this so important anyway? This is important because [[business is an engine for cultural transformation]].
 
 🚧 The rest of this article is under construction 🚧

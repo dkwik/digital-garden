@@ -1,10 +1,10 @@
 ---
 dateCreated: 2023-12-18T08:25:35-05:00
-dateModified: 2023-12-18T09:13:38-05:00
+dateModified: 2023-12-20T08:16:57-05:00
 tags: []
 sources: 
 ---
-# Motivation from ambition is feeble, motivation from service is resilient.
+# Motivation from ambition is feeble, but motivation from service is resilient.
 
 I've come to realize that my success in completing side-projects depended on one critical factor:
 
@@ -27,6 +27,6 @@ So, not only is service good for the soul and beneficial to others, but it also 
 -------------------
 
 Future thoughts:
--A life of service models after Jesus Christ and God's intended design for human flourishing
 -Service to others makes people want to help you.
 -Choosing to serve others, makes you accountable to keeping promises.
+-A life of service models after the intended design for human flourishing within the Christian worldview
