@@ -7,3 +7,7 @@ My personal blog where I do habitual, informal thinking with no fixed agenda, or
 3. **Non-Prescriptive**. Each thought reflects one muse at one moment in my life. You may have different thoughts (on faith, for example). That's okay. I may have different thoughts now. Reach out and let's refine them together.
 
 So. If you are okay with the above, take a journey of exploration with me. Come further up, come further in.
+
+-----------------------
+
+Credits to [mathieudutour](https://github.com/mathieudutour/gatsby-digital-garden/commits?author=mathieudutour) for the theme.
