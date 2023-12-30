@@ -1,6 +1,6 @@
 ---
 dateCreated: 2023-09-14T21:54:47-04:00
-dateModified: 2023-12-29T13:26:52-05:00
+dateModified: 2023-12-30T17:12:32-05:00
 tags: []
 ---
 # Welcome
@@ -31,3 +31,6 @@ Here are some personal short stories that have taught me something, or helped me
 
 - [[My experience with the accelerometer of life in different cities.]]
 - [[how an indecision about tea helped me reflect about my life path]]
+
+-------------
+credits to [mathieudutour](https://github.com/mathieudutour) for the website theme
