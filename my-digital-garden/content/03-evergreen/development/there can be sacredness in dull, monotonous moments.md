@@ -1,10 +1,10 @@
 ---
 dateCreated: 2023-11-29T08:18:43-05:00
-dateModified: 2023-12-18T08:19:45-05:00
+dateModified: 2023-12-29T10:56:10-05:00
 tags: []
 sources: 
 ---
-# There can be sacredness in dull, monotonous habits
+# There can be sacredness in dull, monotonous moments
 
 What if dull, everyday moments matter? I'm referring to habits as mundane as making your bed in the morning ([[making my bed is my most important morning habit]]), spreading some peanut butter over freshly toasted bread, or waiting in line at the grocery store.
 
@@ -12,9 +12,9 @@ Society seems to see these tasks as 'obstacles' to getting the real stuff done. 
 
 But there's something that seems to be wrong about that.
 
-These habits make up a significant portion of my day. Am I to simply be perpetually dissatisfied during this sizable chunk of my week? Should I always be rushing to be done with these facets of a collective human experience, merely for the sake of 'higher-impact work', whatever that means?
+These moments make up a significant portion of my day. Am I to simply be perpetually dissatisfied during this sizable chunk of my week? Should I always be rushing to be done with these facets of a collective human experience, merely for the sake of 'higher-impact work', whatever that means?
 
-Or can these ordinary moments teach me something about patience, gratitude, and being an embodied creature?
+Or can these ordinary moments teach me something about patience, gratitude, and being an embodied creature? Just as breaking bread and drinking wine in the Christian tradition means so much more than a snack and a drink, can dull monotonous moments be reshaped into grounding, sacred 'liturgies' that over time, reshape our souls?
 
 -------------
 

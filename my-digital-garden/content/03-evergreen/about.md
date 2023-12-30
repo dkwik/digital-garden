@@ -1,6 +1,6 @@
 ---
 dateCreated: 2023-09-14T21:54:47-04:00
-dateModified: 2023-12-20T08:21:21-05:00
+dateModified: 2023-12-29T13:26:52-05:00
 tags: []
 ---
 # Welcome
@@ -22,11 +22,12 @@ Currently, I am writing about the intersection of business, social impact, and s
 - Social impact requires people with [[idealistic pragmatism]].
 - [[hope-filled grit vs fear-based grit]].
 - [[3 types of work - creating, cultivating, completing]].
-- [[there can be sacredness in dull, monotonous habits]].
+- [[there can be sacredness in dull, monotonous moments]].
 - [[sabbath is a gift, but it takes 'sacrifice']].
 - [[motivation from ambition is feeble, but motivation from service is resilient]]
-
+- [[the step-ladder of life - a framework for life]]
 ## Short Stories
 Here are some personal short stories that have taught me something, or helped me come to a unique realization.
 
 - [[My experience with the accelerometer of life in different cities.]]
+- [[how an indecision about tea helped me reflect about my life path]]

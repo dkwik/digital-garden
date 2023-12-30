@@ -20,4 +20,4 @@ Isn't it interesting how our minds can start 'racing' within seconds of waking? 
 
 That's why as I make boring fold after boring fold, morning after morning, I remind myself that these boring moments matter.
 
-Yes it boosts my mental health, yes it makes me more productive, but most significantly, it creates good rhythms conducive for a life of faith ([[there can be sacredness in dull, monotonous habits]]).
+Yes it boosts my mental health, yes it makes me more productive, but most significantly, it creates good rhythms conducive for a life of faith ([[there can be sacredness in dull, monotonous moments]]).
