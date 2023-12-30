@@ -4,11 +4,13 @@ dateModified: 2023-12-29T13:20:24-05:00
 tags: []
 sources: 
 ---
+# The step-ladder of life - a framework for life
+
 Twentysomethings often feel a pressure to get life right immediately. I want to know what my career/vocation will be for the next 50 years. I'm impatient to attain mastery at my craft. And by the way, what is my life's craft? I don't even know yet. As a result, it can cause me to feel lost, behind, and anxious. 
 
 Not to fret though, frameworks to the rescue!
 
-A life framework introduced to me by a mentor helped me with thinking through this clearly. Here it is, simply:
+A life framework introduced to me by a mentor helped me with thinking through this clearly (originally called *The Meadows*). Here it is, simply:
 
 my 20s are a time to explore & try new things, 
 my 30s are a time to find my ‘one thing’, 
