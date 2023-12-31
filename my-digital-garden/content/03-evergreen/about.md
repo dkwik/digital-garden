@@ -32,5 +32,10 @@ Here are some personal short stories that have taught me something, or helped me
 - [[My experience with the accelerometer of life in different cities.]]
 - [[how an indecision about tea helped me reflect about my life path]]
 
+
+
+
+
 -------------
+
 credits to [mathieudutour](https://github.com/mathieudutour) for the website theme
