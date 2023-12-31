@@ -1,11 +1,11 @@
 ---
 dateCreated: 2023-10-08T10:03:45-04:00
-dateModified: 2023-12-29T10:38:27-05:00
+dateModified: 2023-12-30T21:09:25-05:00
 tags: []
 sources: 
 ---
 
-# Sabbath is a gift, but it takes 'sacrifice' to receive it
+# Sabbath is a gift, but it takes sacrifice
 
 Taking a full day off from work during the Sabbath - how hard can that be? To be honest, I find it challenging, particularly with boundaries of mind with my side projects ([[boundaries of time, place, and mind]]). It's not that I don't want to kick back, relax, and take a chill pill, it's that I do love to relax, and I'd love for something to come out of my side projects *even more*. 
 

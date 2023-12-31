@@ -23,7 +23,7 @@ Currently, I am writing about the intersection of business, social impact, and s
 - [[hope-filled grit vs fear-based grit]].
 - [[3 types of work - creating, cultivating, completing]].
 - [[there can be sacredness in dull, monotonous moments]].
-- [[sabbath is a gift, but it takes 'sacrifice']].
+- [[sabbath is a gift, but it takes sacrifice]].
 - [[motivation from ambition is feeble, but motivation from service is resilient]]
 - [[the step-ladder of life - a framework for life]]
 ## Short Stories
