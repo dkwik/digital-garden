@@ -1,6 +1,6 @@
 ---
 dateCreated: 2023-09-14T21:54:47-04:00
-dateModified: 2023-12-30T17:12:32-05:00
+dateModified: 2024-02-15T14:24:16-05:00
 tags: []
 ---
 # Welcome
@@ -14,9 +14,14 @@ This is where I do habitual, informal thinking with no fixed agenda, or end-goal
 3. **Non-Prescriptive**. Each thought reflects one muse at one moment in my life. You may have different thoughts (on faith, for example). That's great - reach out and let's refine our thinking together.
 
 So. I invite you to take a journey of exploration with me. Come further up & further in!
-## Entry Points
-Currently, I am writing about the intersection of business, social impact, and some personal development  🙂
 
+## New Musings
+Here are some new top-of-mind thoughts.
+- [[AI might force the convergence of our world's language]]
+- [[embodied disciplines can ground your vision]]
+-  [[the step-ladder of life - a framework for life]]
+## Entry Points
+Here are some older and more connected thoughts.
 - [[there is such a thing as good business]].
 - [[culture is shaped not only through ideas, but through things]].
 - Social impact requires people with [[idealistic pragmatism]].
@@ -25,7 +30,7 @@ Currently, I am writing about the intersection of business, social impact, and s
 - [[there can be sacredness in dull, monotonous moments]].
 - [[sabbath is a gift, but it takes sacrifice]].
 - [[motivation from ambition is feeble, but motivation from service is resilient]]
-- [[the step-ladder of life - a framework for life]]
+
 ## Short Stories
 Here are some personal short stories that have taught me something, or helped me come to a unique realization.
 
