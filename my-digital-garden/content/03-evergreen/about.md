@@ -1,6 +1,6 @@
 ---
 dateCreated: 2023-09-14T21:54:47-04:00
-dateModified: 2024-02-15T14:24:16-05:00
+dateModified: 2024-03-11T10:20:22-04:00
 tags: []
 ---
 # Welcome
@@ -20,6 +20,7 @@ Here are some new top-of-mind thoughts.
 - [[AI might force the convergence of our world's language]]
 - [[embodied disciplines can ground your vision]]
 -  [[the step-ladder of life - a framework for life]]
+- [[Good storytelling is a product of good self-awareness]]
 ## Entry Points
 Here are some older and more connected thoughts.
 - [[there is such a thing as good business]].
