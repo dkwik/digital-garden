@@ -1,6 +1,6 @@
 ---
 dateCreated: 2023-10-18T20:49:45-04:00
-dateModified: 2024-05-25T14:45:17-04:00
+dateModified: 2024-06-08T15:41:31-04:00
 tags: 
 sources:
   - https://churchm.ag/from-the-garden-to-the-city-mediums/
@@ -21,3 +21,6 @@ product of our cluture
 
 
 Is it better to have an opinion and be wrong, or have no opinion at all?
+
+How do you make anything sound interesting?
+	-Being turned off by a friend's architectural explanations, but soon becoming interested in it myself when I contemplating moving cities and learning about urban planning.

@@ -1,6 +1,6 @@
 ---
 dateCreated: 2024-01-02T12:56:44-05:00
-dateModified: 2024-04-17T19:12:52-04:00
+dateModified: 2024-06-08T15:55:45-04:00
 tags: []
 sources: 
 ---
@@ -52,4 +52,4 @@ https://www.linkedin.com/posts/matthewrichardgale_tesla-is-laying-off-more-than-
 5/ workers on visas are not able to use all social services even if they have been paying into these benefits for years.  
   
 I understand that laid off are part of the ups and downs of a company and the economy. And I know lay offs are also really hard for U.S. citizen workers. However, they are much harder for visa workers. Not only is it the end of their livelihood, but it is the potential of end of their American life.  
-  
+

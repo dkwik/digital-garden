@@ -17,7 +17,7 @@ So. I invite you to take a journey of exploration with me. Come further up & fur
 
 ## New Musings
 Here are some new top-of-mind thoughts.
-- [[Is it ever permissible to break standard moral laws?]]
+- [[Is it ever permissible to break standard moral laws]]
 - [[AI might force the convergence of our world's language]]
 - [[embodied disciplines can ground your vision]]
 - [[the step-ladder of life - a framework for life]]

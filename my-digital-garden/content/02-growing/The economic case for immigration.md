@@ -1,6 +1,6 @@
 ---
 dateCreated: 2024-02-12T08:16:37-05:00
-dateModified: 2024-02-12T08:28:42-05:00
+dateModified: 2024-06-08T16:03:51-04:00
 tags: []
 sources: 
 ---
@@ -15,3 +15,6 @@ The Case for Welcoming Immigrants - Alison Beard, HBR (https://hbr.org/2022/05/t
 Streets of Gold - Ran Abramitzky, Leah Boustan (https://www.amazon.com/Streets-Gold-Americas-Immigrant-Success/dp/1541797833)
 Crossing Borders: The Reconciliation of a nation of Immigrants (https://www.amazon.com/Restoring-Americas-Dignity-Reconciliation-Immigrants/dp/153814350X)
 
+Why Immigration Fuel Innovation
+	-https://www.cato.org/cato-journal/fall-2021/effects-immigration-entrepreneurship-innovation
+	- Immigrants are tolerant to risk, a key characteristics of innovation.
