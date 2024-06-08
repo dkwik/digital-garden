@@ -1,6 +1,6 @@
 ---
 dateCreated: 2023-09-14T21:54:47-04:00
-dateModified: 2024-03-11T10:20:22-04:00
+dateModified: 2024-06-08T15:17:17-04:00
 tags: []
 ---
 # Welcome
@@ -17,10 +17,12 @@ So. I invite you to take a journey of exploration with me. Come further up & fur
 
 ## New Musings
 Here are some new top-of-mind thoughts.
+- [[Is it ever permissible to break standard moral laws?]]
 - [[AI might force the convergence of our world's language]]
 - [[embodied disciplines can ground your vision]]
--  [[the step-ladder of life - a framework for life]]
+- [[the step-ladder of life - a framework for life]]
 - [[Good storytelling is a product of good self-awareness]]
+
 ## Entry Points
 Here are some older and more connected thoughts.
 - [[there is such a thing as good business]].

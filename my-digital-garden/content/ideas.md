@@ -1,6 +1,6 @@
 ---
 dateCreated: 2023-10-18T20:49:45-04:00
-dateModified: 2023-11-08T08:16:17-05:00
+dateModified: 2024-05-25T14:45:17-04:00
 tags: 
 sources:
   - https://churchm.ag/from-the-garden-to-the-city-mediums/
@@ -18,3 +18,6 @@ the medium is the message Marshall McLuhan
 from systems thinking to socioecological models:
 	https://en.wikipedia.org/wiki/Social_ecological_model
 product of our cluture
+
+
+Is it better to have an opinion and be wrong, or have no opinion at all?

@@ -1,6 +1,6 @@
 ---
 dateCreated: 2024-01-02T12:56:44-05:00
-dateModified: 2024-02-15T11:12:01-05:00
+dateModified: 2024-04-17T19:12:52-04:00
 tags: []
 sources: 
 ---
@@ -38,3 +38,18 @@ Current state of labor market
 	-9 million unfilled roles as of December 2023, 
 	 - Still more 2.7million job openings more than unemployed, but labor market is cooling.
 	 - https://fred.stlouisfed.org/graph/?g=18bKV
+
+
+https://www.linkedin.com/posts/matthewrichardgale_tesla-is-laying-off-more-than-10-of-its-activity-7186009169798291456-zAaH?utm_source=share&utm_medium=member_desktop
+1/ workers on most U.S. work visas only have 60 days to find a new job. If they don't find a new job, they need to leave the country.  
+  
+2/ workers on visas like H-1Bs and L-1s often have spouses who work using a dependent visa. When the principal immigrant is laid off, the dependent spouse will lose their right to work.  
+  
+3/ layoffs can potentially end a visa worker's green card process. The employee-sponsored green card process has many steps, and if you haven't made it to a certain stage, the process has to start over with a future employer.  
+  
+4/ workers on L-1 visas can not transfer their visas to another company, so they are required to find a similar role at the company that just laid them off. If that doesn't work, they have to leave the U.S.  
+  
+5/ workers on visas are not able to use all social services even if they have been paying into these benefits for years.  
+  
+I understand that laid off are part of the ups and downs of a company and the economy. And I know lay offs are also really hard for U.S. citizen workers. However, they are much harder for visa workers. Not only is it the end of their livelihood, but it is the potential of end of their American life.  
+  
