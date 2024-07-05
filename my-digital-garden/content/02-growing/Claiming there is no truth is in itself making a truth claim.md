@@ -1,16 +1,16 @@
 ---
 dateCreated: 2024-06-02T17:19:01-04:00
-dateModified: 2024-06-08T13:38:00-04:00
+dateModified: 2024-06-09T17:49:31-04:00
 tags: []
 sources: 
 ---
-A growing belief seems to be that all truth is relative (postmodernism). It can stem from a sincere desire to be sensitive towards differing beliefs, or it can be a combative way to dismiss organized religion - the claim that all religions are true, and there is no one true religion.
+A growing belief seems to be that truth is relative (postmodernism). You can have your truth, and I can have mine, and none are wrong. It can stem from a sincere desire to be sensitive towards differing beliefs, or it can be a combative way to dismiss organized religion - the claim that all religions are true, and there is no one true religion.
 
 Here's why i disagree with this line of thinking.
 
 Do you believe that views of truth-exclusivity are wrong, and views of truth-relativity are right? Then you are guilty of the very thing you say, for that in itself is a claim of exclusivity.
 
-Here are more examples:
+Here are more (hopefully obvious) examples:
 
 - There is no truth. Is that a true statement?
 - We can't know truth. Is that a truth you know?
@@ -27,6 +27,7 @@ The truth is, everybody makes truth claims. Yes, I indeed just made a truth clai
 
 It's as small as saying that pineapple should not go on pizza, and as big as saying that it is more probable that there is an intelligent creator than not.
 
-That being said, while I believe postmodern beliefs are flawed, I am empathetic to pluralism, such as the posture of Isaiah Berlin:
+That being said, while I believe postmodern beliefs are flawed, I am empathetic to the spirit of pluralism, such as the posture of Isaiah Berlin:
 
 "Let us have the courage of our admitted ignorance, of our doubts and uncertainties. At least we can try to discover what others […] require, by […] making it possible for ourselves to know men as they truly are, by listening to them carefully and sympathetically, and understanding them and their lives and their needs, one by one individually."
+
