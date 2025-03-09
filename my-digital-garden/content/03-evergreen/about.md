@@ -40,7 +40,41 @@ Here are some personal short stories that have taught me something, or helped me
 - [[My experience with the accelerometer of life in different cities.]]
 - [[how an indecision about tea helped me reflect about my life path]]
 
+## Full Index of Notes
 
+### Business & Social Impact
+- [[there is such a thing as good business]]
+- [[business is an engine for cultural transformation]]
+- [[some of the toughest social issues might be best solved through business]]
+- [[social enterprises provides spare change for social change]]
+- [[social innovation that scales]]
+- [[every aspect of a business can possess a redeeming quality]]
+- [[there are extremely generous, humble people business people]]
+- [[idealistic pragmatism]]
+
+### Company Case Studies
+- [[Chobani's committed to hiring refugees and giving 10 percent of their company to their employees]]
+- [[Patagonia told it's customers not to buy their jackets]]
+- [[Ecosia donates 80 percent of its profits to reforestation, planting over 180 million trees]]
+
+### Personal Growth & Work
+- [[the step-ladder of life - a framework for life]]
+- [[3 types of work - creating, cultivating, completing]]
+- [[boundaries of time, place, and mind]]
+- [[motivation from ambition is feeble, but motivation from service is resilient]]
+- [[hope-filled grit vs fear-based grit]]
+- [[embodied disciplines can ground your vision]]
+
+### Daily Living & Spirituality
+- [[making my bed is my most important morning habit]]
+- [[there can be sacredness in dull, monotonous moments]]
+- [[sabbath is a gift, but it takes sacrifice]]
+- [[digital caffeine is a real, serious drug]]
+
+### Culture & Society
+- [[culture is shaped not only through ideas, but through things]]
+- [[AI might force the convergence of our world's language]]
+- [[Is it ever permissible to break standard moral laws]]
 
 
 
