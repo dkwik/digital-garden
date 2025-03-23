@@ -5,4 +5,4 @@ tags: []
 sources: 
 ---
 
-A desire to make an impact can often be conflated with a quest for significance. Often both can co-exist in the same person. I find that in my own life, they feed off of each other. I want to make something of my life, and 
+A desire to make an impact can often be conflated with a quest for significance. Often both can co-exist in the same person. I find that in my own life, they feed off of each other. 
