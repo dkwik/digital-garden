@@ -13,5 +13,5 @@ We are ritualistic because our brains need it to function day-to-day. Psychologi
 
 System 1 thinking is our habitual, ritualistic brain function. We use it to quicken our thinking - which is useful if we are met with a truck hurling down towards us and we need to think, but also dangerous as it makes us susceptible to doomscrolling on Tiktok.
 
-Why do I want to be reflective about this? Our rituals shape us into who we are. We often think we are 'thinking things', but we are really actually creatures of habit. [[We are shaped less by how we think, but what we do]].
+Why do I want to be reflective about this? Our rituals shape us into who we are. We often think we are 'thinking things', but we are really actually creatures of habit. [[we are shaped less by how we think, but what we do]].
 

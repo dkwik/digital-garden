@@ -4,7 +4,7 @@ dateModified: 2023-12-02T12:55:03-05:00
 tags: []
 sources: 
 ---
-Since [[We are all 'ritualistic' people]], it's impossible to prevent our habits ('what we do') from shaping our personhood ('who we are'). Thus, we need to be hyper vigilant about our daily rituals.
+Since [[we are all 'ritualistic' people]], it's impossible to prevent our habits ('what we do') from shaping our personhood ('who we are'). Thus, we need to be hyper vigilant about our daily rituals.
 
 For example, I bear some semblance of a disciplined person because of the ritual of [[making my bed is my most important morning habit | I make my bed every morning]]. I've cultivated my curiosity because of the habit of actively ask questions when I'm conversing. I've become more open-minded because of the pursued diverse friendships across ethnicity & class.
 

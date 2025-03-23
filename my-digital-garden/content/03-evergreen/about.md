@@ -18,7 +18,7 @@ So. I invite you to take a journey of exploration with me. Come further up & fur
 ## New Musings
 Here are some new top-of-mind thoughts.
 
-- [[Our hearts are shaped less by how we think, but what we do]]
+- [[we are shaped less by how we think, but what we do]]
 - [[the step-ladder of life - a framework for life]]
 - [[Is it ever permissible to break standard moral laws]] 
 - [[AI might force the convergence of our world's language]]
